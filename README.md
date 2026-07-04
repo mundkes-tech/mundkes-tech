@@ -195,26 +195,35 @@ My work combines AI automation, strong engineering fundamentals, and fast produc
 <table>
   <tr>
     <td valign="top" width="50%">
-      <p><img src="https://img.shields.io/badge/FEATURED-Project-8b5cf6?style=flat-square" alt="featured" /></p>
-      <h3>💼 Expense Manager</h3>
-      <p><b>Expo + React Native + Node.js + Express.js + MongoDB</b></p>
-      <p>Full-stack personal finance app with budgeting and recurring expense tracking.</p>
-      <p><b>Problem:</b> Expense tracking breaks down when budgets and recurring spends are ignored.</p>
-      <p><b>Stack:</b> Expo, React Native, Node.js, Express.js, MongoDB</p>
-      <p><b>Outcome:</b> JWT-secured mobile finance tracker with analytics and recurring templates.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </p>
-      <ul>
-        <li>JWT authentication</li>
-        <li>Expense tracking and category analytics</li>
-        <li>Budget and recurring templates</li>
-        <li>Secure mobile-first workflow</li>
-      </ul>
-      <p><a href="https://github.com/mundkes-tech">GitHub</a></p>
-    </td>
+      <p><img src="https://img.shields.io/badge/FEATURED-Project-2563eb?style=flat-square" alt="featured" /></p>
+      <h3>🏢 VendorBridge ERP</h3>
+      <p><b>React.js + Express.js + PostgreSQL + JWT</b></p>
+      <p>Full-stack Procurement & Vendor Management ERP that automates the complete purchasing lifecycle from vendor onboarding to invoice generation.</p>
+      <p><b>Problem:</b> Traditional procurement relies on spreadsheets, emails, and manual approvals, leading to delays, poor visibility, and inefficient vendor management.</p>
+      <p><b>Stack:</b> React.js, Node.js, Express.js, PostgreSQL, JWT, PDFKit, Nodemailer</p>
+      <p><b>Outcome:</b> Enterprise-grade ERP with secure role-based access, RFQ management, quotation comparison, approval workflow, purchase orders, invoices, PDF generation, email notifications, and analytics.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
+
+<ul>
+  <li>Role-Based Access Control (Admin, Procurement Officer, Manager & Vendor)</li>
+  <li>Vendor Management & Procurement Workflow Automation</li>
+  <li>RFQ Creation, Vendor Assignment & Quotation Comparison</li>
+  <li>Approval Workflow, Purchase Orders & Invoice Generation</li>
+  <li>PDF Generation, Email Notifications & Activity Logs</li>
+  <li>Reports, Analytics & Dashboard Insights</li>
+</ul>
+
+<p>
+<a href="https://github.com/mundkes-tech/VendorBridge-ERP">GitHub</a>
+</p>
+
+</td>
     <td valign="top" width="50%">
       <p><img src="https://img.shields.io/badge/FEATURED-Project-ec4899?style=flat-square" alt="featured" /></p>
       <h3>📍 GeoTag</h3>
