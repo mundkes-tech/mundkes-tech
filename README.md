@@ -120,7 +120,10 @@ My work combines AI automation, strong engineering fundamentals, and fast produc
         <li>Highlight extraction with timestamps</li>
         <li>Automated reel generation with subtitles and watermarking</li>
       </ul>
-      <p><a href="https://github.com/mundkes-tech/hack-the-tank-SVNIT-Hackathon_DreamBuilders">GitHub</a></p>
+      <p>
+        <a href="https://github.com/mundkes-tech/hack-the-tank-SVNIT-Hackathon_DreamBuilders">GitHub</a>
+        <a href="https://youtu.be/e6qnHPhEr80?si=x0Y2NeLC_DjKumDo">Demo Video</a>
+      </p>
     </td>
     <td valign="top" width="50%">
       <p><img src="https://img.shields.io/badge/FEATURED-Project-22c55e?style=flat-square" alt="featured" /></p>
@@ -220,7 +223,8 @@ My work combines AI automation, strong engineering fundamentals, and fast produc
 </ul>
 
 <p>
-<a href="https://github.com/mundkes-tech/VendorBridge-ERP">GitHub</a>
+<a href="https://github.com/mundkes-tech/Odoo-X-KSV">GitHub</a>
+<a href="https://youtu.be/3rhCrNb6KWI?si=EKijCUri3xSHY7Sq">Demo Video</a>
 </p>
 
 </td>
