@@ -270,7 +270,7 @@ My work combines AI automation, strong engineering fundamentals, and fast produc
       <p><img src="https://img.shields.io/badge/FEATURED-Top%2010-0ea5e9?style=flat-square" alt="featured" /></p>
       <p><b>Top 10 National Finalist</b></p>
       <p>Hack The Winter 2026 • SVNIT Surat</p>
-      <p>Selected from 1,500+ teams and placed in the final Top 10.</p>
+      <p>Selected from 1,500+ teams and secured a place among the Top 10 finalists nationwide.</p>
     </td>
     <td valign="top" width="50%">
       <p><img src="https://img.shields.io/badge/FEATURED-Winner-22c55e?style=flat-square" alt="featured" /></p>
@@ -279,6 +279,7 @@ My work combines AI automation, strong engineering fundamentals, and fast produc
       <p>Built the AI Job Placement Automation Suite for intelligent hiring workflows.</p>
     </td>
   </tr>
+
   <tr>
     <td valign="top" width="50%">
       <p><img src="https://img.shields.io/badge/FEATURED-Finalist-f59e0b?style=flat-square" alt="featured" /></p>
@@ -287,9 +288,10 @@ My work combines AI automation, strong engineering fundamentals, and fast produc
       <p>Recognized for the AI Testimonial Growth Engine.</p>
     </td>
     <td valign="top" width="50%">
-      <p><img src="https://img.shields.io/badge/ACADEMIC-Excellence-8b5cf6?style=flat-square" alt="academic" /></p>
-      <p><b>Academic Excellence</b></p>
-      <p>CGPA 9.33 in Diploma IT and CGPA 9.00 in B.Tech CSE.</p>
+      <p><img src="https://img.shields.io/badge/FEATURED-4th%20Runner--Up-7c3aed?style=flat-square" alt="featured" /></p>
+      <p><b>4th Runner-Up</b></p>
+      <p>Odoo x KSV Hackathon 2026 • Kadi Sarva Vishwavidyalaya</p>
+      <p>Developed a full-stack Rental Management System with customer & admin portals, automating bookings, payments, security deposits, returns, and rental operations.</p>
     </td>
   </tr>
 </table>
