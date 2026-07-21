@@ -228,27 +228,35 @@ My work combines AI automation, strong engineering fundamentals, and fast produc
 </p>
 
 </td>
-    <td valign="top" width="50%">
-      <p><img src="https://img.shields.io/badge/FEATURED-Project-ec4899?style=flat-square" alt="featured" /></p>
-      <h3>📍 GeoTag</h3>
-      <p><b>Expo + React Native + TypeScript + Node.js + Express.js + MongoDB</b></p>
-      <p>React Native app to capture photos, attach live GPS coordinates, and manage geotagged entries.</p>
-      <p><b>Problem:</b> Field capture needs location-aware proof and secure uploads.</p>
-      <p><b>Stack:</b> Expo, TypeScript, Node.js, Express.js, MongoDB</p>
-      <p><b>Outcome:</b> Camera, GPS, auth, and uploads in a secure mobile workflow.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/GPS-22c55e?style=flat-square&logo=googlemaps&logoColor=white" alt="GPS" />
-      </p>
-      <ul>
-        <li>Camera and location capture flow</li>
-        <li>JWT auth middleware</li>
-        <li>Multer upload service</li>
-        <li>Secure mobile entry management</li>
-      </ul>
-      <p><a href="https://github.com/mundkes-tech">GitHub</a></p>
-    </td>
+<td valign="top" width="50%">
+  <p><img src="https://img.shields.io/badge/FEATURED-Hackathon%20Project-f59e0b?style=flat-square" alt="featured" /></p>
+  <h3>🚗 Rental Management System</h3>
+  <p><b>Next.js + Node.js + Express.js + PostgreSQL + Prisma + Stripe</b></p>
+  <p>🏅 <b>4th Runner-Up</b> at the <b>Odoo x KSV Hackathon 2026</b>. Built a full-stack Rental Management System that automates the complete rental lifecycle for customers and administrators.</p>
+  <p><b>Problem:</b> Rental businesses need a centralized platform to manage bookings, payments, security deposits, pickups, returns, penalties, and operational workflows.</p>
+  <p><b>Stack:</b> Next.js, Node.js, Express.js, PostgreSQL, Prisma ORM, Stripe</p>
+  <p><b>Outcome:</b> Developed a production-ready solution with customer & admin portals, role-based authentication, rental operations, payment processing, and analytics dashboards.</p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+    <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  </p>
+
+  <ul>
+    <li>Customer & Admin Portals with Role-Based Authentication</li>
+    <li>Vehicle Booking, Rental Orders & Quotations</li>
+    <li>Payments, Security Deposits & Penalty Management</li>
+    <li>Pickups, Returns, Reports & Analytics Dashboard</li>
+  </ul>
+
+  <p>
+    <a href="https://github.com/mundkes-tech/Odoo-X-KSV-Final-Round">GitHub</a> |
+    <a href="https://youtu.be/9XdfyBbWTDY">Demo Video</a>
+  </p>
+</td>
   </tr>
 </table>
 
@@ -281,7 +289,7 @@ My work combines AI automation, strong engineering fundamentals, and fast produc
     <td valign="top" width="50%">
       <p><img src="https://img.shields.io/badge/ACADEMIC-Excellence-8b5cf6?style=flat-square" alt="academic" /></p>
       <p><b>Academic Excellence</b></p>
-      <p>CGPA 9.33 in Diploma IT and CGPA 8.33 in B.Tech CSE.</p>
+      <p>CGPA 9.33 in Diploma IT and CGPA 9.00 in B.Tech CSE.</p>
     </td>
   </tr>
 </table>
